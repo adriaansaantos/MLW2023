@@ -1,16 +1,31 @@
-
+body {
+    background-image: url(../MLW2023/Imagens/Fundo\ HTML.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 h1 {
-        background-color: rgba(48, 46, 46, 0.427);
+        background-color: rgba(98, 97, 97, 0.492);
         font-size: 50px;
+        color: white;
+        font-family: cursive
 }
     #corazulescuro {
         background-color: rgba(0, 136, 255, 0.679);
         font-size: 35px;
 }
     #corvermelha {
-        background-color: rgba(255, 68, 0, 0.73);
-        color: rgb(255, 0, 43);
+        background-color:rgba(255, 255, 255, 0.492);
+        color: rgb(48, 48, 48);
 }
+
+    #atividades {
+        background-color: rgba(255, 68, 0, 0.726);
+    }
+
+    #link {
+        color: rgba(24, 23, 23, 0.649)
+    }
 
 p.destaque {
 background-color: gray;
